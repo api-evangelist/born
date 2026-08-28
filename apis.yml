@@ -11,6 +11,17 @@ description: 'Born (formerly Slay) is a Berlin-based consumer AI company founded
   funding to roughly $25M. Born is a consumer mobile-app maker and publishes no public developer
   API, SDK, or documentation surface at this time.'
 url: https://raw.githubusercontent.com/api-evangelist/born/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
